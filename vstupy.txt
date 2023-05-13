@@ -1,0 +1,11 @@
+knihovna turtle:
+
+vlocka(4,4)
+strom(70,4)
+py_strom(100,3)
+
+knihovna matplotlib:
+
+vlocka(1,5)
+strom(50,5)
+py_strom(1,5)
